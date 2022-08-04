@@ -35,5 +35,7 @@ public class MyCat extends Cat
         //else{
            //shoutHooray(); 
         //}
+        
+        shoutHooray();
     }
 }
